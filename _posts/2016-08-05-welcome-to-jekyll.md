@@ -6,8 +6,6 @@ categories: writing
 
 ---
 
-![2023-05-04-474046.jpg](https://agrarhandelsun-igr.github.io/agrarhandelsun/assets/2023-05-04-474046.jpg)
-
 AGRARHANDELSUN GMBH is an agricultural trading company based in Germany. The company operates in the field of agricultural trade and distribution and is recognized as a reputable provider of agricultural products in the market.
 
 Over the years, AGRARHANDELSUN has established close and long-term relationships with agricultural producers both domestically and internationally. By offering high-quality products to its customers, the company has gained their trust and satisfaction.
