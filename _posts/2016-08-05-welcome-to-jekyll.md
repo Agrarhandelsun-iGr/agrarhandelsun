@@ -7,23 +7,16 @@ categories: writing
 ---
 
 ![2023-05-04-474046.jpg](https://agrarhandelsun-igr.github.io/agrarhandelsun/assets/2023-05-04-474046.jpg)
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+AGRARHANDELSUN GMBH is an agricultural trading company based in Germany. The company operates in the field of agricultural trade and distribution and is recognized as a reputable provider of agricultural products in the market.
 
-Jekyll also offers powerful support for code snippets:
+Over the years, AGRARHANDELSUN has established close and long-term relationships with agricultural producers both domestically and internationally. By offering high-quality products to its customers, the company has gained their trust and satisfaction.
 
-```
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
+AGRARHANDELSUN supplies a diverse range of products including crops, grains, animal feed, horticultural products, fertilizers, and pesticides. The company strives for high-quality assurance and secure sourcing for its customers, delivering its products in a timely and up-to-date manner through its extensive distribution network.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Additionally, AGRARHANDELSUN is engaged in providing agricultural consulting services, offering guidance and technical advice to its customers in the areas of farming production and efficiency.
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+With its experience, technical expertise, and strong performance, AGRARHANDELSUN is recognized as a reputable entity in the agricultural trading industry, maintaining long-term and sustainable relationships with its customers and producers.
+
+
 
